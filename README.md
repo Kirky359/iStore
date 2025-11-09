@@ -5,7 +5,7 @@ This project is a feature-rich front-end for an e-commerce store specializing in
 ## Live Preview
 
 You can view the deployed version of the project here:
-[DEMO LINK](https://Kirky359.github.io/iStore/)
+[DEMO LINK](https://Kirky359.github.io/IStore/)
 
 ## Design Reference
 

@@ -1,7 +1,7 @@
 {
-  "homepage": ".",
   "name": "react-typescript-starter-pack",
   "version": "0.1.0",
+  "homepage": "https://Kirky359.github.io/IStore/",
   "dependencies": {
     "@ant-design/icons": "^6.1.0",
     "@emotion/react": "^11.14.0",
