@@ -3,16 +3,24 @@
   "name": "react-typescript-starter-pack",
   "version": "0.1.0",
   "dependencies": {
+    "@ant-design/icons": "^6.1.0",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
     "@fortawesome/fontawesome-free": "^6.5.2",
+    "@mui/material": "^7.3.5",
+    "antd": "^5.28.0",
     "bulma": "^1.0.1",
     "classnames": "^2.5.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.25.1",
-    "react-transition-group": "^4.4.5"
+    "react-slick": "^0.31.0",
+    "react-transition-group": "^4.4.5",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^12.0.3"
   },
   "devDependencies": {
-    "@mate-academy/scripts": "^1.8.5",
+    "@mate-academy/scripts": "^2.1.2",
     "@mate-academy/students-ts-config": "*",
     "@mate-academy/stylelint-config": "*",
     "@types/node": "^20.14.10",
