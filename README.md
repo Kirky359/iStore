@@ -1,6 +1,6 @@
 # IStore
 
-This project is a feature-rich front-end for an e-commerce store specializing in mobile phones, tablets, and accessories. It provides a clean, modern, and responsive user interface for customers to browse products, view details, filter, sort, and manage their favorite items and shopping cart.
+This project is the front-end for a sleek, responsive online store specializing in mobile devices and accessories. It implements a full suite of e-commerce features, including robust product browsing, sorting, filtering, a wishlist, and a complete shopping cart system.
 
 ## Live Preview
 
